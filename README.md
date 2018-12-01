@@ -1,7 +1,7 @@
 # Barter-Market
 experimental research tool for market simulation, consumer behavior, and information asymmetry
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of (i) markets, (ii) consumer behavior, and (iii) information asymmetry in decision making (business) and risk-taking.
